@@ -1,5 +1,4 @@
 # Projects
-Projects
 This discuss about the multimodality, multimodal learning , multimodal deep
 learning, various algorithms and networks that can used to learn the multimodal data, some
 approaches to multimodal deep learning. About some multimodal datasets that can be used
